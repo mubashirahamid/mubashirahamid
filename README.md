@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Mubashira Hamid 
+Aspiring Engineer dedicated to academic excellence and technical solutions.
 
-<!--
-**mubashirahamid/mubashirahamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Technical Portfolio
+Smart Systems:  - Arduino & IoT interface with noise reduction.
 
-Here are some ideas to get you started:
+AI Solutions:  - Real-time speech analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering Tools:  - Professional calculation engine.
+
+Academic Focus
+Currently documenting my journey from laboratory experiments to real-world prototypes. I specialize in bridging the gap between hardware and software.
+
+Connect with me
+LinkedIn: www.linkedin.com/in/mubashirahamid
+
+Email: mubashirahamid07@gmail.com
